@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtrocityExecution (Beginner Programmer)
 - 👀 I’m interested in Software Engineering/Cybersecurity/Game Development
-- 🌱 Have learned C++, Java, Javascript; Looking to learn more languages in the future
-- 💞️ I’m looking to collaborate on projects relating to software
+- 🌱 Mainly use Javascript and Python
+- 💞️ I’m looking to collaborate on projects relating to software and cybersecurity
 - 📫 How to reach me: normil.luccin104@gmail.com or nluccin2021@fau.edu
 
 <!---
